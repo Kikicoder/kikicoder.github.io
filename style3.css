@@ -1,0 +1,30 @@
+body{
+	margin:0 auto;
+	background-image: url("launchpad.jpeg");
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: "Times New roman"
+}
+
+
+
+.text-uppercase {
+	
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 150%;
+	width: 50%;
+	margin-top: 370px;
+	margin-left: 290px;
+
+}
+
+.btn-info{
+	text-align: center;
+	margin: 10px;
+	padding: 15px;
+	border-radius: 50px;
+	font-weight: bold;
+
+}
